@@ -16,6 +16,6 @@ header {
 
 .small_img {
     margin: 25px;
-    width: 300px;
-    height: 200px;
+    max-width: 300px;
+    max-height: 200px;
 }
