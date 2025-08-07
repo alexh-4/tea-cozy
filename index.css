@@ -6,3 +6,16 @@
     opacity:0.9;
     text-align: center;
 }
+ 
+header {
+    border-bottom: 1px solid seashell;
+    text-decoration: underline;
+    padding: 10px;
+    min-height: 69px;
+}
+
+.small_img {
+    margin: 25px;
+    width: 300px;
+    height: 200px;
+}
